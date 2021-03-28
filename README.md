@@ -19,8 +19,8 @@
 [1] Deep Residual Learning for Image Recognition\
 [2] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks\
 [3] Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising\
-[4] Meta-Learning in Neural Networks: A Survey
-[5] Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting
+[4] Meta-Learning in Neural Networks: A Survey\
+[5] Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting\
 [6] Virtual-Taobao: Virtualizing Real-World Online Retail Environment for Reinforcement Learning\
 [7] Reinforcement Learning Beyond Games:To Make a Difference in Alibaba
 
